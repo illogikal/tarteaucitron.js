@@ -1478,3 +1478,4 @@ var tarteaucitron = {
         return elem.getAttribute('height') || elem.clientHeight;
     }
 };
+module.exports = tarteaucitron
